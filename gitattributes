@@ -1,0 +1,4 @@
+# Scripts de lote do Windows precisam de quebra de linha CRLF
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.txt text eol=crlf
