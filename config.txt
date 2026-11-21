@@ -1,0 +1,10 @@
+# Configuracao do Baixador. Veja o README.txt
+defaultVideoFolder=
+defaultMusicFolder=
+threads=4
+subsExe=yt-dlp_x86.exe
+sleepSubs=5
+langPt=pt,pt-BR
+langEn=en,en-US,en-GB
+langJa=ja
+updateAsked=0
